@@ -1,0 +1,13 @@
+{
+  "name": "devops68-discount-calculator",
+  "version": "1.0.0",
+  "description": "API to calculate discount and final price",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "license": "MIT"
+}
